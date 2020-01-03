@@ -14,4 +14,8 @@ public class DemoApplication {
         System.out.println("我是张三pro");
     }
 
+    public void test(String name){
+        System.out.println("一百行代码");
+    }
+
 }
